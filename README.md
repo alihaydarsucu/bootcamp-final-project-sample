@@ -12,3 +12,6 @@ In the last week of the bootcamp, we designed a simple website using basic HTML 
 
 ## Link and View
 
+![General View of Project](View (Readme Files)/1.png)
+![General View of Project](View (Readme Files)/2.png)
+![General View of Project](View (Readme Files)/3.png)
