@@ -11,4 +11,4 @@ As the instructor of this bootcamp, I covered basic Internet knowledge and intro
 In the last week of the bootcamp, we designed a simple website using basic HTML and CSS knowledge as an example for the final project of the bootcamp. 
 
 ## Link to a Final Project Sample
-https://alihaydarsucu.github.io/BootCamp.github.io/
+https://alihaydarsucu.github.io/bootcamp-final-project-sample/
