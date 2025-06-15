@@ -10,11 +10,5 @@ The online summer bootcamp aimed to introduce the basics of front-end web develo
 As the instructor of this bootcamp, I covered basic Internet knowledge and introduced the fundamentals of HTML and CSS to the participants. 
 In the last week of the bootcamp, we designed a simple website using basic HTML and CSS knowledge as an example for the final project of the bootcamp. 
 
-## Link and View
-
+## Link to a Final Project Sample
 https://alihaydarsucu.github.io/BootCamp.github.io/
-
-
-![General View of Project](View_Readme-Files/1.png)
-![General View of Project](View_Readme-Files/2.png)
-![General View of Project](View_Readme-Files/3.png)
